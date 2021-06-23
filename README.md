@@ -1,4 +1,4 @@
-Hello I am Rohit Sharma
+Hello I am Rohit Sharma<br/>
 A React-Redux Developer
 
 <!---
