@@ -1,4 +1,4 @@
-<h3>Hello I am Rohit Sharma</h3><br/>
+<h3 style="padding-bottom:0px;">Hello I am Rohit Sharma</h3>
 <h5>Frontend Development Engineer at eClerx</h5>
 
 <!---
