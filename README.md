@@ -1,5 +1,5 @@
-Hello I am Rohit Sharma<br/>
-A React-Redux Developer
+<h3>Hello I am Rohit Sharma</h3><br/>
+<h5>Frontend Development Engineer at eClerx</h5>
 
 <!---
 rohitsharma0027/rohitsharma0027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
